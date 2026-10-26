@@ -1,0 +1,2 @@
+# insurance-fraud-detection-ml
+The goal of the following project is to use various machine learning algorithms to detect fraudulent insurance claims within the dataset.
