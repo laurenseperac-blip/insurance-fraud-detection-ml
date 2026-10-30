@@ -1,0 +1,2 @@
+Algorithm,Accuracy,Precision,Recall,F1-Score,ROC-AUC
+Naive Bayes,1.0,1.0,1.0,1.0,1.0
